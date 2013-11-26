@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDD148C0-C6CA-43DA-96DC-05ADF2AB047E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NetworkDataAnalysisTools</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48505172-13CA-4F83-B694-320A49F263AC</key>
+		<string>https://github.com/kevingithub/KNetworkData.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NetworkDataAnalysisTools.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48505172-13CA-4F83-B694-320A49F263AC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kevingithub/KNetworkData.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48505172-13CA-4F83-B694-320A49F263AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48505172-13CA-4F83-B694-320A49F263AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KNetworkData</string>
+		</dict>
+	</array>
+</dict>
+</plist>
